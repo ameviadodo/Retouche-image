@@ -1,0 +1,6 @@
+{
+  "name": "Studio Retouche & Vision Python",
+  "description": "Studio professionnel de retouche et traitement d'image haute résolution motorisé par Python, OpenCV, Pillow et IA générative.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
